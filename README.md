@@ -43,6 +43,6 @@ flutter run
 ```
 ----
 #### Se você gostou deste repositório, por favor apoie dando uma :star: 
-### Feito com ♥ e <img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">lluter!
+#### Feito com ♥ e <img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">lluter!
 ----
 ###### README inspirado em [joaopaulovieira-dev](https://github.com/joaopaulovieira-dev) 💜
