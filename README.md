@@ -16,16 +16,20 @@
 ## Descrição do Projeto :bookmark_tabs:
 App criado para busca e compartilhamento de Gifs da plataforma Giphy.
 
-Com o consumo de uma API RESTful é possível manter os gifs sempre atualizados de acordo com a tag 'Em Alta' da plataforma. </br>
+Com o consumo de uma API RESTful é possível manter os gifs sempre atualizados de acordo com a tag "Em Alta" da plataforma. </br>
 Além disso, o app também possui a opção de compartilhamento nas redes sociais e busca das imagens pela API.
 
 ## Ferramentas Utilizadas :wrench:
-| Teconologias | Plugins | 
-|--- |--- |
-| <a href="https://flutter.dev/" target="_blank"><img height="26" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a> | [share: ^0.6.3+5](https://pub.dev/packages/share) | 
-| <a href="https://dart.dev/" target="_blank"><img height="26" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a> | [transparent_image: ^1.0.0](https://pub.dev/packages/transparent_image) | 
-| <a href="" target="_blank"><img height="26" src="https://img.shields.io/badge/API%20RESTful-00965d?style=for-the-badge"></a> | [http: ^0.12.0+2](https://pub.dev/packages/http) |
-|  | [vibration: 1.2.2](https://pub.dev/packages/vibration) |
+
+<a href="https://flutter.dev/" target="_blank"><img height="26" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+<a href="https://dart.dev/" target="_blank"><img height="26" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+<a href="" target="_blank"><img height="26" src="https://img.shields.io/badge/API%20RESTful-00965d?style=for-the-badge"></a>
+
+### Plugins 
+- [share: ^0.6.3+5](https://pub.dev/packages/share)
+- [transparent_image: ^1.0.0](https://pub.dev/packages/transparent_image)
+- [http: ^0.12.0+2](https://pub.dev/packages/http)
+- [vibration: 1.2.2](https://pub.dev/packages/vibration)
 
 ## O que o App é capaz de fazer :heavy_check_mark:
 
