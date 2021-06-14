@@ -25,7 +25,7 @@ Aplicativo implementado no curso [Criação de Apps Android e iOS com Flutter](h
 
 <a href="https://flutter.dev/" target="_blank"><img height="26" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 <a href="https://dart.dev/" target="_blank"><img height="26" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
-<a href="https://pt.wikipedia.org/wiki/REST" target="_blank"><img height="26" src="https://img.shields.io/badge/API%20RESTful-00965d?style=for-the-badge"></a>
+<a href="https://pt.wikipedia.org/wiki/REST" target="_blank"><img height="26" src="https://img.shields.io/badge/API%20REST-00965d?style=for-the-badge"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img height="26" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 
 
