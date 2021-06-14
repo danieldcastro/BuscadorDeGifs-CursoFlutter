@@ -29,7 +29,7 @@ Além disso, o app também possui a opção de compartilhamento nas redes sociai
 
 :trophy: Compartilhar o conteúdo nas redes sociais.
 
-## 💻 Como instalar?
+## 💻 Bora dar uma clonada?
 Obs.: Certifique-se de ter o Flutter 2.0 ou superior instalado, caso não esteja, execute:
 
 ```
