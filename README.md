@@ -8,6 +8,8 @@
 
 > Status do Projeto: Concluído em 11/02/2020 v1.0.0+1 :heavy_check_mark:
 
+![Google Pixel 4 XL Presentation](https://user-images.githubusercontent.com/51754570/121825950-9824c880-cc8b-11eb-8f5e-85b6c6090062.png)
+
 ## Descrição do Projeto :bookmark_tabs:
 App criado para busca e compartilhamento de Gifs da plataforma Giphy.
 
