@@ -5,6 +5,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/danieldcastro/BuscadorDeGifs-CursoFlutter)](https://github.com/danieldcastro/BuscadorDeGifs-CursoFlutter/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+<a href="https://www.buymeacoffee.com/danieldcastro" target="_blank">
+  <img width="135" src="https://img.shields.io/badge/Buy_Me_A_Toddynho-d83a7c?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white">
+</a>
 
 > Status do Projeto: Concluído em 11/02/2020 v1.0.0+1 :heavy_check_mark:
 
@@ -16,12 +19,13 @@ App criado para busca e compartilhamento de Gifs da plataforma Giphy.
 Com o consumo de uma API RESTful é possível manter os gifs sempre atualizados de acordo com a tag 'Em Alta' da plataforma. </br>
 Além disso, o app também possui a opção de compartilhamento nas redes sociais e busca das imagens pela API.
 
-## Plugins Utilizados :wrench:
-- cupertino_icons: ^0.1.2
-- share: ^0.6.3+5
-- transparent_image: ^1.0.0
-- http: ^0.12.0+2
-- vibration: 1.2.2
+## Ferramentas Utilizadas :wrench:
+| Teconologias | Plugins | 
+|--- |--- |
+| <a href="https://flutter.dev/" target="_blank"><img height="26" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a> | [share: ^0.6.3+5](https://pub.dev/packages/share) | 
+| <a href="https://dart.dev/" target="_blank"><img height="26" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a> | [transparent_image: ^1.0.0](https://pub.dev/packages/transparent_image) | 
+| <a href="" target="_blank"><img height="26" src="https://img.shields.io/badge/API%20RESTful-00965d?style=for-the-badge"></a> | [http: ^0.12.0+2](https://pub.dev/packages/http) |
+|  | [vibration: 1.2.2](https://pub.dev/packages/vibration) |
 
 ## O que o App é capaz de fazer :heavy_check_mark:
 
