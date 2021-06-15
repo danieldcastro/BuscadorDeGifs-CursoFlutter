@@ -13,7 +13,7 @@
 
 ![Google Pixel 4 XL Presentation](https://user-images.githubusercontent.com/51754570/121825950-9824c880-cc8b-11eb-8f5e-85b6c6090062.png)
 
-## Descrição do Projeto :pencil:
+## Descrição do projeto :pencil:
 App criado para busca e compartilhamento de Gifs da plataforma Giphy.
 
 Com o consumo de uma API RESTful é possível manter os gifs sempre atualizados de acordo com a tag "Em Alta" da plataforma. </br>
@@ -21,7 +21,7 @@ Além disso, o app também possui a opção de compartilhamento nas redes sociai
 
 Aplicativo implementado no curso [Criação de Apps Android e iOS com Flutter](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/) do [Daniel Ciolfi](https://www.linkedin.com/in/danielciolfi/).
 
-## :paperclip: Ferramentas Utilizadas 
+## :paperclip: Ferramentas utilizadas 
 
 <a href="https://flutter.dev/" target="_blank"><img height="26" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 <a href="https://dart.dev/" target="_blank"><img height="26" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
